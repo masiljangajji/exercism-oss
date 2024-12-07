@@ -5,8 +5,6 @@
 
 This repository contains the source for the exercises of the Java track on Exercism.
 
-[Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)
-
 ## Java Track Tooling
 
 Next to the exercises, the Java track also consists of the following tooling:
